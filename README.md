@@ -32,3 +32,5 @@ Place the `Weather Dataset.csv ` file in your project directory. Ensure the path
 ## Visualizations:
 + Temperature Trends: Line plot showing temperature changes over time.
 + Monthly Rainfall Distribution: Bar chart showing total rainfall per month.
+## License
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
